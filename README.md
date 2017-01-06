@@ -5,10 +5,13 @@ Gambiarra na aveia
 
 Este repositorio não é para ser levado em consideração, a menos que você queria saber o que não fazer, aprender a fazer gambiarra
 e codigo mal feito.
+
  
- **Então Bem vindo ao maravilhoso mundo do mais do mesmo com tudo que você ja fez um dia, mas agora versionado**
  
- ## pra que versionar?
+ Então Bem vindo ao maravilhoso mundo do mais do mesmo com tudo que você ja fez um dia, mas agora versionado 
+ 
+ **Pra que versionar?**
+ 
  
  perder tempo, pq vc pode fazer backup como:
  
